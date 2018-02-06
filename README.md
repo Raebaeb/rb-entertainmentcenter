@@ -9,3 +9,6 @@ A simple program that converts python code containing Rachel's favorite movies i
 Download repository from https://github.com/Raebaeb/rb-entertainmentcenter</br>
 Unzip folder rb-entertainmentcenter</br>
 Launch entertainment_center.py
+
+## Use
+Select movie poster image in order to launch corresponding trailer

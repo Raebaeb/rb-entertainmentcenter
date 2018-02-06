@@ -1,8 +1,8 @@
-#Designate modules to use for program
-import media #Holds custom Movie class 
+# Designate modules to use for program
+import media  # Holds custom Movie class
 import fresh_tomatoes
 
-#Call class and assign instance variables
+# Call class and assign instance variables
 nacho_libre = media.Movie(
     "Nacho Libre",
     "A monk persues his dream of being a wrestler",
@@ -39,7 +39,7 @@ fiddler_roof = media.Movie(
     "https://upload.wikimedia.org/wikipedia/en/5/5e/Fiddler_on_the_roof.jpg",
     "https://www.youtube.com/watch?v=PjfTNnznJXw")
 
-#Movies list for fresh_tomatoes to create web interface
+# Movies list for fresh_tomatoes to create web interface
 movies = [nacho_libre, emperors_new_groove, les_miserables,
           catching_fire, the_help, fiddler_roof]
 

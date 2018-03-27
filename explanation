@@ -1,0 +1,3 @@
+A python program whose output is an HTML page. Works in conjunction with the program Fresh Tomatoes //
+Running the program takes the user to an HTML page that gives a selection of movie posters to click on, which will play a youtube trailer that
+corresponds to the movie poster.
